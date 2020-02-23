@@ -4,8 +4,6 @@
 
 看了 *Kevin Simler* 这篇文章[Going Critical](https://www.meltingasphalt.com/interactive/going-critical/)觉得很有意思, 实现了其中几个模型
 
-标题的意思就是
-
 
 
 有时间再继续玩​ :D​
